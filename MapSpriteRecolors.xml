@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="TactileLibrary.MapSpriteRecolorData">
+    <data>
+      <Item>
+        <Key>FF403838</Key>
+        <Value>FF403838 FF403838 FF403838 FF384038 FF482840</Value>
+      </Item>
+      <Item>
+        <Key>FF584878</Key>
+        <Value>FF404040 FF584878 FF684860 FF385038 FF584068</Value>
+      </Item>
+      <Item>
+        <Key>FF90B8E8</Key>
+        <Value>FF787878 FF90B8E8 FFC0A8B8 FF98C880 FFA8A8E8</Value>
+      </Item>
+      <Item>
+        <Key>FFD8E8F0</Key>
+        <Value>FFB8B8B8 FFD8E8F0 FFE0E0E0 FFD8F8B8 FFE0E0F8</Value>
+      </Item>
+      <Item>
+        <Key>FFF8F8F8</Key>
+        <Value>FFD0D0D0 FFF8F8F8 FFF8F8F8 FFF8F8F8 FFF8F8F8</Value>
+      </Item>
+      <Item>
+        <Key>FF383890</Key>
+        <Value>FF484848 FF383890 FF602820 FF205010 FF705078</Value>
+      </Item>
+      <Item>
+        <Key>FF3850E0</Key>
+        <Value>FF585858 FF3850E0 FFA83028 FF089000 FF9070A8</Value>
+      </Item>
+      <Item>
+        <Key>FF28A0F8</Key>
+        <Value>FF989898 FF28A0F8 FFE01010 FF18D010 FFC0A8E0</Value>
+      </Item>
+      <Item>
+        <Key>FF18F0F8</Key>
+        <Value>FFB8B8B8 FF18F0F8 FFF85048 FF50F838 FFE0D8E8</Value>
+      </Item>
+      <Item>
+        <Key>FF706060</Key>
+        <Value>FF505050 FF706060 FF706060 FF585850 FF786050</Value>
+      </Item>
+      <Item>
+        <Key>FFB09058</Key>
+        <Value>FF808080 FFB09058 FFB09058 FFA08840 FFC08848</Value>
+      </Item>
+      <Item>
+        <Key>FFF8F8D0</Key>
+        <Value>FFC8C8C8 FFF8F8D0 FFF8F8D0 FFF8F8C0 FFF8F8C8</Value>
+      </Item>
+      <Item>
+        <Key>FFE81018</Key>
+        <Value>FF707070 FFE81018 FF38D030 FF0078C8 FFE81018</Value>
+      </Item>
+      <Item>
+        <Key>FFF8F840</Key>
+        <Value>FFC8C8C8 FFF8F840 FFF8F840 FFE0F828 FFF8F828</Value>
+      </Item>
+      <Item>
+        <Key>FF808870</Key>
+        <Value>FF808870 FF808870 FF808870 FF808870 FF808870</Value>
+      </Item>
+    </data>
+  </Asset>
+</XnaContent>
