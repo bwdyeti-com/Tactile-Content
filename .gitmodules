@@ -1,0 +1,3 @@
+[submodule "src/Data/Text"]
+	path = src/Data/Text
+	url = https://github.com/bwdyeti-com/Tactile-Text
